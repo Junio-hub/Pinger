@@ -25,4 +25,4 @@ A lightweight, high-performance, and cross-platform CLI tool designed to monitor
 ### Building from Source
 
 ```gitclone
-git clone [https://github.com/Junio-hub/Pinger.git](https://github.com/Junio-hub/Pinger.git)
+git clone https://github.com/Junio-hub/Pinger.git
