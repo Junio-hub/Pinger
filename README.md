@@ -17,7 +17,7 @@ A lightweight, high-performance, and cross-platform CLI tool designed to monitor
 ## Preview
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Junio-hub/Pinger/main/Ping-Preview.png" alt="Pinger CLI Preview" width="700">
+  <img src="https://github.com/Junio-hub/Pinger/blob/main/Ping-Preview.png" alt="Pinger CLI Preview" width="700">
 </p>
 
 ---
