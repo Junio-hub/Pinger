@@ -3,6 +3,8 @@
 A Lightweight, High Performance, All-Platform Tool to Monitoring Network Latency using ICMP (Ping) and TCP Handshake methods
 
 ---
+Author: Junio
+---
 
 ## Feature
 
