@@ -1,23 +1,20 @@
 # Pinger
 
-A lightweight, high-performance, and cross-platform CLI tool designed to monitor network latency using both **ICMP (Ping)** and **TCP handshake** methods. Packed with beautiful terminal colors and smart ASN/ISP lookup.
+A Lightweight, High Performance, All-Platform Tool to Monitoring Network Latency using ICMP (Ping) and TCP Handshake methods
 
 ---
 
-## Features
+## Feature
 
-* **Dual Mode:** Seamlessly switch between standard ICMP pings and advanced TCP connection testing.
-* **Smart ASN Lookup:** Automatically identifies the ISP, Autonomous System Number (ASN), and country of the target IP using an optimized internal database.
-* **Live Metrics:** Real-time tracking of Average/Max latency ($RTT$), packet loss to diagnose network stability instantly.
-* **True Cross-Platform:** Native support for both Windows and Linux/Unix environments.
-* **Zero Bloat:** Pure C code with no external heavyweight dependencies.
-
----
+* **Dual Modes:** Ping with ICMP or TCP Handshakes
+* **Smart ASN LookUp:** Automatically shows the ISP, Autonomous System Number (ASN), and Country for the Target IP using an Optimized Database
+* **Cross Platform:** Works on Windows, Linux and Inux
+* **Language:** This Programm is written in C
 
 ## Preview
 
 <p align="center">
-  <img src="https://github.com/Junio-hub/Pinger/blob/main/Ping-Preview.png" alt="Pinger CLI Preview" width="700">
+  <img src="https://github.com/Junio-hub/Pinger/blob/main/Ping-Preview.png" alt="Pinger Preview" width="700">
 </p>
 
 ---
